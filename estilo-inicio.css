@@ -1,0 +1,73 @@
+html {
+  font-family: "Roboto", sans-serif;
+  background-color: #878a8c;
+}
+
+.marvel {
+  margin: 0em 50em 3em 0em;
+  text-decoration: none;
+}
+.iconos {
+  margin-left: 1em;
+  text-decoration: none;
+}
+.iconos-2 {
+  position: absolute;
+  right: 8px;
+  bottom: 200px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.linea {
+  text-decoration: none;
+}
+
+.contenido {
+  width: 1150px;
+}
+
+p {
+  text-align: justify;
+  color: black;
+}
+.solo {
+  background-color: white;
+  border-radius: 10px;
+}
+section {
+  margin: 100px;
+}
+
+.contenido-heroes {
+  margin: 0px 100px 10px 0px;
+  padding: 60px 20px;
+  border-radius: 20px;
+  background-color: whitesmoke;
+  box-shadow: 0px 0px 50px;
+}
+
+.copy1 {
+  padding: 1px;
+  display: flex;
+  grid-column: 2;
+  justify-content: space-around;
+
+  background-color: whitesmoke;
+  border-radius: 20px;
+  color: black;
+}
+
+.titulo {
+  margin: 0px 100px 50px 0px;
+  text-align: center;
+  padding: 20px 20px;
+  border-radius: 20px;
+  background-color: whitesmoke;
+}
+
+.foto {
+  position: relative;
+  margin-left: 350px;
+  margin-top: 40px;
+}
